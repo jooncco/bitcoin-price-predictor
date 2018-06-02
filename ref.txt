@@ -1,5 +1,0 @@
-data: https://www.kaggle.com/acornec/bitcoin-predictions
-data exploration: https://github.com/anvithaananth/bitcoin_marketprice_prediction/blob/master/project1_bitcoin_final_submission.ipynb
-CNN:
-http://cs231n.github.io/convolutional-networks/
-http://yann.lecun.com/exdb/publis/pdf/lecun-bengio-95a.pdf
