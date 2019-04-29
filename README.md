@@ -1,7 +1,12 @@
-# bitcoin_price
-Project for bitcoin price prediction with market indicators and trend data(Google trend) using Regression Models & LSTM RNN. CSI4117 Data Mining cource @ Yonsei Univ, Seoul, Republic of Korea.
+# <i>bitcoin_price</i>
+Project for bitcoin price prediction with market indicators and trend data(Google trend) using <b>Regression Models & LSTM RNN.</b> <b><i>CSI4117 Data Mining cource @Yonsei Univ, Seoul, Republic of Korea.</i></b>
 
+# Snapshot
+![snap_0.PNG](./readme_image/snap_0.PNG)
+![snap_1.PNG](./readme_image/snap_1.PNG)
+![snap_2.PNG](./readme_image/snap_2.PNG)
 
+# References
 1) Data & Linear Regression:
 https://www.kaggle.com/acornec/bitcoin-predictions
 2) Data Exploration:
