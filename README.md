@@ -1,4 +1,4 @@
-# <i>ML_bitcoin_price</i>
+# <i>bitcoin-price-predictor</i>
 Project for bitcoin price prediction with market indicators and trend data(Google trend) using <b>Regression Models & LSTM RNN.</b> <b><i>CSI4117 Data Mining cource @Yonsei Univ, Seoul, Republic of Korea.</i></b>
 
 # Snapshot
